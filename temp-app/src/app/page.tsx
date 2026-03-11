@@ -10,11 +10,11 @@ import { Contact } from "@/components/sections/Contact";
 export const metadata = {
   title: "Barra Nova Construtora | Qualidade e Inovação em Construção Civil",
   description:
-    "A Barra Nova Construtora transforma projetos em realidade com qualidade premium, tecnologia e excelência em cada detalhe. Construção residencial, comercial, reformas e projetos arquitetônicos em Sergipe.",
-  keywords: "construtora, barra nova, construção civil, sergipe, obras, residencial, comercial, reformas, projetos arquitetônicos",
+    "A Barra Nova Construtora transforma projetos em realidade com qualidade premium, tecnologia e excelência em cada detalhe. Construção residencial, comercial, reformas e projetos arquitetônicos no Ceará.",
+  keywords: "construtora, barra nova, construção civil, ceará, caucaia, obras, residencial, comercial, reformas, projetos arquitetônicos",
   openGraph: {
     title: "Barra Nova Construtora",
-    description: "Construindo o futuro com qualidade e inovação em Sergipe.",
+    description: "Construindo o futuro com qualidade e inovação no Ceará.",
     url: "https://barranovaconstrutora.com.br",
     siteName: "Barra Nova Construtora",
     type: "website",
