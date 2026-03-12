@@ -1,12 +1,9 @@
-import { MetadataRoute } from 'next'
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  return [
-    {
-      url: 'https://barranovaconstrutora.com.br',
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 1,
-    },
-  ]
-}
+<url>
+<loc>https://barranovaconstrutora.com.br/</loc>
+<priority>1.0</priority>
+</url>
+
+</urlset>
