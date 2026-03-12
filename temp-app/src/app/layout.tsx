@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Barra Nova Construtora | Qualidade e Inovação em Construção Civil",
+  title: "Barra Nova Construtora | Construção e Obras em Caucaia CE",
   description:
     "Há mais de 35 anos construindo com excelência no Ceará. Construção residencial, comercial, reformas e projetos arquitetônicos com padrão premium.",
 };
