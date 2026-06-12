@@ -71,7 +71,7 @@ export function Contact() {
 
             {/* WhatsApp CTA */}
             <a
-              href="https://wa.me/5585987770381?text=Olá! Gostaria de solicitar um orçamento."
+              href="https://wa.me/5585987221122?text=Olá! Gostaria de solicitar um orçamento."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 glass-card p-5 hover:border-green-400/40 transition-all duration-300 group"
@@ -84,7 +84,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-white font-bold text-sm">Atendimento via WhatsApp</p>
-                <p className="text-[#6B7280] text-xs mt-0.5">(85) 9 8777-0381 — Segunda a Sábado</p>
+                <p className="text-[#6B7280] text-xs mt-0.5">(85) 98722-1122 — Segunda a Sábado</p>
               </div>
             </a>
           </SectionWrapper>
@@ -116,7 +116,7 @@ export function Contact() {
                     </div>
                     <div className="flex flex-col gap-2">
                       <label className="text-sm font-medium text-white/70">Telefone/WhatsApp *</label>
-                      <input required type="tel" placeholder="(85) 9 8777-0381" className="form-input" />
+                      <input required type="tel" placeholder="(85) 98722-1122" className="form-input" />
                     </div>
                   </div>
 
